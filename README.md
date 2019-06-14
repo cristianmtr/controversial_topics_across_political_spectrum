@@ -23,6 +23,10 @@ Abstract:
 
 Full paper available [here](paper.pdf)
 
+Main results in histogram form (distribution of topics across controversial submissions on reddit political communities):
+
+![hist](image.png)
+
 ## Main challenges
 
 ### Dataset(s)
